@@ -1,0 +1,64 @@
+================================================================================
+GOJEK DEPARTMENT INSIGHTS REPORT
+================================================================================
+
+
+================================================================================
+🏢 KUALITAS LAYANAN
+================================================================================
+Total Comments: 300
+
+✅ POSITIVE (33.3%)
+   Top Keywords: cepat, driver, pelayanan, membantu, ramah, nyaman, aman, tepat, mudah, murah, promo, selalu, drivernya, makanan, gofood
+
+❌ NEGATIVE (33.3%)
+   Top Keywords: driver, lama, malah, padahal, susah, buka, pesan, kali, order, mohon, dapet, biaya, sama, diperbaiki, makin
+
+⚪ NEUTRAL (33.3%)
+   Top Keywords: driver, bintang, gofood, padahal, lama, suka, pas, drivernya, mohon, jauh, sama, susah, maaf, order, malah
+
+
+================================================================================
+🏢 APLIKASI
+================================================================================
+Total Comments: 300
+
+✅ POSITIVE (33.3%)
+   Top Keywords: membantu, promo, banyak, makanan, mantapp, butuh, baru, good, semoga, daftar, gofood, terimakasih, anak, bangsa, uang
+
+❌ NEGATIVE (33.3%)
+   Top Keywords: driver, malah, lama, padahal, biaya, buka, makin, gopay, akun, selalu, baru, kali, loading, mohon, susah
+
+⚪ NEUTRAL (33.3%)
+   Top Keywords: padahal, voucher, gofood, driver, sama, suka, promo, mohon, gopay, bintang, pas, diperbaiki, agak, perbaiki, maaf
+
+
+================================================================================
+🏢 PRODUK
+================================================================================
+Total Comments: 300
+
+✅ POSITIVE (33.3%)
+   Top Keywords: driver, pelayanan, gopay, membantu, makanan, gofood, terimakasih, pesan, banyak, sama, cepat, semoga, pelayanannya, memuaskan, kerja
+
+❌ NEGATIVE (33.3%)
+   Top Keywords: driver, gopay, pesan, malah, padahal, sama, susah, order, makanan, lama, biaya, gocar, ongkir, gofood, jauh
+
+⚪ NEUTRAL (33.3%)
+   Top Keywords: driver, gofood, gopay, padahal, bintang, voucher, agak, sama, makanan, promo, pesan, lama, mohon, masih, order
+
+
+================================================================================
+🏢 LAYANAN PELANGGAN
+================================================================================
+Total Comments: 300
+
+✅ POSITIVE (33.3%)
+   Top Keywords: promo, banyak, promonya, diskon, suka, banyakin, driver, voucher, cepat, membantu, mohon, respon, gofood, pas, uang
+
+❌ NEGATIVE (33.3%)
+   Top Keywords: gopay, saldo, akun, driver, baru, padahal, sama, malah, promo, belum, lama, masuk, uang, voucher, kali
+
+⚪ NEUTRAL (33.3%)
+   Top Keywords: promo, voucher, gofood, padahal, driver, gopay, diskon, sama, promonya, agak, saldo, harus, cuma, suka, update
+
